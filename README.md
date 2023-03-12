@@ -1,2 +1,2 @@
 # git-demo
-Going through git essentials commands and adding a file with a summary of each of them 
+Going through git essentials commands and adding a file with a summary of each of them .Well it seems funny right .Hell YEAH, LET'S D THIS 
